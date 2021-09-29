@@ -49,6 +49,11 @@
             "vid":"0x8002",
             "pid":"0x303A",
             "board":"um-tinys2-esp32s2"
+        },
+        {
+            "vid":"0x303A",
+            "pid":"0x80B5",
+            "board":"um-feathers2neo-esp32s2"
         }
     ]
 }
